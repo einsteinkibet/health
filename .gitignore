@@ -1,1 +1,3 @@
 .gitignore file created
+node_modules/
+build/contracts/
